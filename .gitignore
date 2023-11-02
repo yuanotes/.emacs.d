@@ -9,3 +9,8 @@
 
 # Undo-tree save-files
 *.~undo-tree
+
+eln-cache
+elpa
+auto-save-list
+/server/
